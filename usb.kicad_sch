@@ -473,7 +473,7 @@
   )
 
   (no_connect (at 128.905 100.33) (uuid eea92b22-7b65-46c3-aacf-5cf963a0f2cf))
-  (no_connect (at 128.905 102.87) (uuid eea92b22-7b65-46c3-aacf-5cf963a0f2cf))
+  (no_connect (at 128.905 102.87) (uuid eea92b22-7b65-46c3-aacf-5cf963a0f2d0))
 
   (wire (pts (xy 128.905 80.01) (xy 147.955 80.01))
     (stroke (width 0) (type default) (color 0 0 0 0))
