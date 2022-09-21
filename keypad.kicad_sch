@@ -664,7 +664,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 194.945 69.215 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 00ef135e-7fc9-4e3f-b97d-f45907800995)
     (property "Reference" "SW15" (id 0) (at 194.945 60.96 0))
     (property "Value" "Up" (id 1) (at 194.945 63.5 0))
@@ -679,7 +679,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.305 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 0672beec-0a17-42ac-a699-d3edc8c7751f)
     (property "Reference" "SW8" (id 0) (at 154.305 74.295 0))
     (property "Value" "8" (id 1) (at 154.305 76.835 0))
@@ -710,7 +710,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 194.945 97.155 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 2eb366af-8831-4fb9-acbd-e2ab10980477)
     (property "Reference" "SW17" (id 0) (at 194.945 88.9 0))
     (property "Value" "Call/OK" (id 1) (at 194.945 91.44 0))
@@ -725,7 +725,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 170.18 97.155 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 3fee18fb-7164-48fb-9915-4061fd69ede1)
     (property "Reference" "SW13" (id 0) (at 170.18 88.9 0))
     (property "Value" "#" (id 1) (at 170.18 91.44 0))
@@ -740,7 +740,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 138.43 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 448dfb36-9564-42dd-a85f-79ece441ed40)
     (property "Reference" "SW4" (id 0) (at 138.43 74.295 0))
     (property "Value" "7" (id 1) (at 138.43 76.835 0))
@@ -755,7 +755,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 170.18 69.215 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 55b22d79-cc71-4ea8-90f5-bcdd2a4c96c8)
     (property "Reference" "SW11" (id 0) (at 170.18 60.96 0))
     (property "Value" "6" (id 1) (at 170.18 63.5 0))
@@ -770,7 +770,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 138.43 69.215 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 5c77bc48-1415-4b63-9eb6-384336988602)
     (property "Reference" "SW3" (id 0) (at 138.43 60.96 0))
     (property "Value" "4" (id 1) (at 138.43 63.5 0))
@@ -785,7 +785,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.305 69.215 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 61a17475-ca86-4c06-a61d-fb5cc7968990)
     (property "Reference" "SW7" (id 0) (at 154.305 60.96 0))
     (property "Value" "5" (id 1) (at 154.305 63.5 0))
@@ -857,7 +857,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 170.18 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 909d310a-b7e7-484f-b8fc-e54674a81cd0)
     (property "Reference" "SW12" (id 0) (at 170.18 74.295 0))
     (property "Value" "9" (id 1) (at 170.18 76.835 0))
@@ -872,7 +872,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.305 55.245 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 9d70d732-e107-4fd0-bc08-cf7c2c085742)
     (property "Reference" "SW6" (id 0) (at 154.305 46.99 0))
     (property "Value" "2" (id 1) (at 154.305 49.53 0))
@@ -903,7 +903,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 138.43 55.245 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a037c063-471c-4ca6-a436-6c4ed3915037)
     (property "Reference" "SW2" (id 0) (at 138.43 46.99 0))
     (property "Value" "1" (id 1) (at 138.43 49.53 0))
@@ -918,7 +918,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.305 97.155 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a5d41079-b4f5-41a0-a714-b4bcbb75d2d6)
     (property "Reference" "SW9" (id 0) (at 154.305 88.9 0))
     (property "Value" "0" (id 1) (at 154.305 91.44 0))
@@ -949,7 +949,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 194.945 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid ae44baf5-a370-401a-afe4-889e6489fad3)
     (property "Reference" "SW16" (id 0) (at 194.945 74.295 0))
     (property "Value" "Down" (id 1) (at 194.945 76.835 0))
@@ -964,7 +964,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 170.18 55.245 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid bac8d089-1ef6-4897-aa1d-b1762af1898d)
     (property "Reference" "SW10" (id 0) (at 170.18 46.99 0))
     (property "Value" "3" (id 1) (at 170.18 49.53 0))
@@ -979,7 +979,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 194.945 55.245 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid e206a21c-5846-488a-8e17-00ee3fe4f08a)
     (property "Reference" "SW14" (id 0) (at 194.945 46.99 0))
     (property "Value" "End/Back" (id 1) (at 194.945 49.53 0))
@@ -994,7 +994,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push_45deg") (at 138.43 97.155 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid f6773b3e-1130-44c2-8e06-b1de7383aad1)
     (property "Reference" "SW5" (id 0) (at 138.43 88.9 0))
     (property "Value" "*" (id 1) (at 138.43 91.44 0))
