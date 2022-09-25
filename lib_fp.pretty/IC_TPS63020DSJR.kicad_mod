@@ -1862,6 +1862,7 @@
   (pad "12" smd oval (at 1.4 -0.5) (size 0.6 0.24) (layers "F.Cu" "F.Paste") (tstamp 65f15bf6-b99c-4ba4-bc8a-38db1c295ea8))
   (pad "13" smd oval (at 1.4 -1) (size 0.6 0.24) (layers "F.Cu" "F.Paste") (tstamp f723c398-c6c4-4556-8155-4a75f6ae10b8))
   (pad "14" smd oval (at 1.4 -1.5) (size 0.6 0.24) (layers "F.Cu" "F.Paste") (tstamp fcfcb351-cb01-489f-8d80-1a81320535f4))
+  (pad "15" smd rect (at 0 0.15) (size 2 4) (layers "B.Cu") (tstamp e5241aef-6bb4-468b-9b3e-5a590d4dfe55))
   (pad "15" smd custom (at 0 0) (size 1.5 2.8) (layers "F.Cu")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
